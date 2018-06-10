@@ -1,5 +1,4 @@
 # gitTest
-<<<<<<< HEAD
 gitSSH
 创建一个 SSH key 
 ssh-keygen -t rsa -C "your_email@example.com"
@@ -8,6 +7,3 @@ ssh-keygen -t rsa -C "your_email@example.com"
 -f 指定密钥文件存储文件名。
 测试
 ssh：ssh -T git@github.com
-=======
-git测试
->>>>>>> dev
